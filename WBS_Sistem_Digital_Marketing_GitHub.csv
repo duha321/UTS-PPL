@@ -1,0 +1,45 @@
+WBS Code,Task Name,Parent,Level,Estimasi Durasi,Status
+1.0,Project Sistem Digital Marketing Berbasis Website,-,1,12 Minggu,Planning
+1.1,Inisiasi Proyek,1.0,2,1 Minggu,Planning
+1.1.1,Identifikasi Kebutuhan,1.1,3,3 Hari,Planning
+1.1.1.1,Wawancara stakeholder,1.1.1,4,1 Hari,To Do
+1.1.1.2,Analisis kebutuhan bisnis,1.1.1,4,1 Hari,To Do
+1.1.1.3,Identifikasi target market,1.1.1,4,1 Hari,To Do
+1.1.2,Studi Kelayakan,1.1,3,3 Hari,Planning
+1.1.2.1,Analisis teknis,1.1.2,4,1 Hari,To Do
+1.1.2.2,Analisis biaya,1.1.2,4,1 Hari,To Do
+1.1.2.3,Analisis risiko awal,1.1.2,4,1 Hari,To Do
+1.2,Perencanaan Proyek,1.0,2,2 Minggu,Planning
+1.2.1,Perencanaan Ruang Lingkup,1.2,3,4 Hari,To Do
+1.2.1.1,Menentukan fitur website,1.2.1,4,2 Hari,To Do
+1.2.1.2,Menyusun requirement specification,1.2.1,4,1 Hari,To Do
+1.2.1.3,Validasi kebutuhan,1.2.1,4,1 Hari,To Do
+1.2.2,Perencanaan Waktu,1.2,3,3 Hari,To Do
+1.2.2.1,Penyusunan WBS,1.2.2,4,1 Hari,Done
+1.2.2.2,Penyusunan Gantt Chart,1.2.2,4,1 Hari,To Do
+1.2.2.3,Penentuan milestone,1.2.2,4,1 Hari,To Do
+1.3,Analisis & Desain Sistem,1.0,2,2 Minggu,To Do
+1.3.1,Analisis Sistem,1.3,3,1 Minggu,To Do
+1.3.1.1,Analisis kebutuhan fungsional,1.3.1,4,2 Hari,To Do
+1.3.1.2,Analisis kebutuhan non-fungsional,1.3.1,4,2 Hari,To Do
+1.3.1.3,Analisis kompetitor,1.3.1,4,1 Hari,To Do
+1.3.2,Desain Sistem,1.3,3,1 Minggu,To Do
+1.3.2.1,Desain arsitektur sistem,1.3.2,4,2 Hari,To Do
+1.3.2.2,Desain database,1.3.2,4,2 Hari,To Do
+1.3.2.3,Desain UI/UX,1.3.2,4,1 Hari,To Do
+1.4,Pengembangan Sistem,1.0,2,3 Minggu,To Do
+1.4.1,Frontend Development,1.4,3,1 Minggu,To Do
+1.4.1.1,Landing page,1.4.1,4,2 Hari,To Do
+1.4.1.2,Halaman produk/layanan,1.4.1,4,2 Hari,To Do
+1.4.1.3,Integrasi form lead,1.4.1,4,1 Hari,To Do
+1.4.2,Backend Development,1.4,3,1 Minggu,To Do
+1.4.2.1,Login admin,1.4.2,4,2 Hari,To Do
+1.4.2.2,Manajemen konten,1.4.2,4,2 Hari,To Do
+1.4.2.3,Integrasi database,1.4.2,4,1 Hari,To Do
+1.4.3,Integrasi Digital Marketing Tools,1.4,3,1 Minggu,To Do
+1.4.3.1,Integrasi SEO,1.4.3,4,2 Hari,To Do
+1.4.3.2,Google Analytics,1.4.3,4,2 Hari,To Do
+1.4.3.3,Email marketing,1.4.3,4,1 Hari,To Do
+1.5,Pengujian Sistem,1.0,2,2 Minggu,To Do
+1.6,Implementasi & Deployment,1.0,2,1 Minggu,To Do
+1.7,Monitoring & Maintenance,1.0,2,1 Minggu,To Do
